@@ -1,0 +1,1639 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\authrepository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\authrepository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\controllers\\panelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\controllers\\panelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\file\\listuserfilesview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\file\\listuserfilesview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\dtos\\jwtresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\dtos\\jwtresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\controllers\\roleuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\controllers\\roleuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\controllers\\groupuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\controllers\\groupuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\controllers\\groupfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\controllers\\groupfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\controllers\\bucketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\controllers\\bucketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\filerepository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\filerepository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\filerepository\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\filerepository\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\authdtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\authdtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\authdtos\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\authdtos\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\file\\listfilegroupsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\file\\listfilegroupsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\roleuserrepository\\roleuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\roleuserrepository\\roleuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\authdtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\authdtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\authrepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\authrepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\cloudpanel.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\cloudpanel.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\dtos\\createfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\dtos\\createfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\listfilesview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\listfilesview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\listgroupusersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\listgroupusersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\listusersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\listusersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\group\\listgroupfilesview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\group\\listgroupfilesview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\logeventvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\logeventvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\logstreamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\logstreamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\bucketrepository\\bucketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\bucketrepository\\bucketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\cloudpanel.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\cloudpanel.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\bucketdtos\\chunkmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\bucketdtos\\chunkmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\bucketrepository\\ibucketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\bucketrepository\\ibucketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\groupfilerepository\\groupfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\groupfilerepository\\groupfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\groupfilerepository\\igroupfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\groupfilerepository\\igroupfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\file\\updatefileview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\file\\updatefileview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\groupfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\groupfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\groupaddfilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\groupaddfilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\groupfilesbyfileidvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\groupfilesbyfileidvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\groupfiledtos\\getgroupfilesbyfileiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\groupfiledtos\\getgroupfilesbyfileiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\file\\uploadfileview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\file\\uploadfileview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\groupadduserview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\groupadduserview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\roleadduserview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\roleadduserview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\s3file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\s3file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\addroleview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\addroleview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\groupuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\groupuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\addgroupview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\addgroupview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\listroleusersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\listroleusersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\groupuserbygroupidvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\groupuserbygroupidvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\dtos\\deletefiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\dtos\\deletefiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\bucketdtos\\getfilebykeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\bucketdtos\\getfilebykeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\bucketdtos\\uploads3filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\bucketdtos\\uploads3filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\dtos\\getfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\dtos\\getfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\roleadddeleteuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\roleadddeleteuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\groupuserbyuseridvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\groupuserbyuseridvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\bucketdtos\\deletefiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\bucketdtos\\deletefiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\models\\dappercontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\models\\dappercontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\filedtos\\createfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\filedtos\\createfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\bucketdtos\\s3objectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\bucketdtos\\s3objectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\uploadfiledtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\uploadfiledtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\bucketdtos\\getallfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\bucketdtos\\getallfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\filedtos\\resultfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\filedtos\\resultfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\listrolesview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\listrolesview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\updateuserview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\updateuserview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\cloudpanel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\cloudpanel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB24EC9-F78B-4FA2-A828-A7CFEC90EC54}|CloudPanel.ServiceDefaults\\CloudPanel.ServiceDefaults.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel.servicedefaults\\cloudpanel.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BB24EC9-F78B-4FA2-A828-A7CFEC90EC54}|CloudPanel.ServiceDefaults\\CloudPanel.ServiceDefaults.csproj|solutionrelative:cloudpanel.servicedefaults\\cloudpanel.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\updategroupview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\updategroupview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\roleuserbyroleidvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\roleuserbyroleidvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\views\\panel\\updateroleview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\views\\panel\\updateroleview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\filedtos\\updatefiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\filedtos\\updatefiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\filedtos\\getuserfilesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\filedtos\\getuserfilesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\filedtos\\getbyidfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\filedtos\\getbyidfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\groupuserrepository\\groupuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\groupuserrepository\\groupuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\roleuserrepository\\iroleuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\roleuserrepository\\iroleuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\repositories\\groupuserrepository\\igroupuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\repositories\\groupuserrepository\\igroupuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\webapp\\models\\viewmodels\\groupadddeleteuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A78F7-AD11-414D-84D1-5BA9FAEDEF13}|WebApp\\CloudPanel.WebApp.csproj|solutionrelative:webapp\\models\\viewmodels\\groupadddeleteuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\userdtos\\resultuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\userdtos\\resultuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B042AF52-73D7-49C3-93E6-D3C8F3F0F987}|CloudPanel.AppHost\\CloudPanel.AppHost.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B042AF52-73D7-49C3-93E6-D3C8F3F0F987}|CloudPanel.AppHost\\CloudPanel.AppHost.csproj|solutionrelative:cloudpanel.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B042AF52-73D7-49C3-93E6-D3C8F3F0F987}|CloudPanel.AppHost\\CloudPanel.AppHost.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B042AF52-73D7-49C3-93E6-D3C8F3F0F987}|CloudPanel.AppHost\\CloudPanel.AppHost.csproj|solutionrelative:cloudpanel.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B042AF52-73D7-49C3-93E6-D3C8F3F0F987}|CloudPanel.AppHost\\CloudPanel.AppHost.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel.apphost\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B042AF52-73D7-49C3-93E6-D3C8F3F0F987}|CloudPanel.AppHost\\CloudPanel.AppHost.csproj|solutionrelative:cloudpanel.apphost\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B042AF52-73D7-49C3-93E6-D3C8F3F0F987}|CloudPanel.AppHost\\CloudPanel.AppHost.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B042AF52-73D7-49C3-93E6-D3C8F3F0F987}|CloudPanel.AppHost\\CloudPanel.AppHost.csproj|solutionrelative:cloudpanel.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crawler\\.nuget\\packages\\aspire.hosting.apphost\\8.1.0\\build\\Aspire.Hosting.AppHost.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|c:\\users\\crawler\\source\\repos\\cloudpanel\\cloudpanel\\dtos\\groupuserdtos\\getgroupuserbyuseriddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E84F-BC48-4092-9291-5EBD1656D7CD}|CloudPanel\\CloudPanel.WebApi.csproj|solutionrelative:cloudpanel\\dtos\\groupuserdtos\\getgroupuserbyuseriddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListUserFilesView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\File\\ListUserFilesView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\File\\ListUserFilesView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\File\\ListUserFilesView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\File\\ListUserFilesView.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T22:47:45.634Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Controllers\\FileController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAqwK8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T02:23:48.031Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\AuthRepository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\AuthRepository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\AuthRepository\\AuthRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\AuthRepository\\AuthRepository.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwJQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:19:31.228Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\Dtos\\JwtResponseDto.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Dtos\\JwtResponseDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\Dtos\\JwtResponseDto.cs",
+              "RelativeToolTip": "WebApp\\Models\\Dtos\\JwtResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:28:59.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:13:08.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CloudPanel\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:33:52.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Program.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Program.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Program.cs",
+              "RelativeToolTip": "CloudPanel\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:19:37.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T06:13:33.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Controllers\\LogsController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "CloudPanel\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:11:14.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T02:26:31.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PanelController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Controllers\\PanelController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\PanelController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Controllers\\PanelController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\PanelController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAQwFEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:58:44.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\RoleUsersController.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Controllers\\RoleUsersController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\RoleUsersController.cs",
+              "RelativeToolTip": "CloudPanel\\Controllers\\RoleUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:33:50.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "CloudPanel\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:33:48.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "CloudPanel\\Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:33:42.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroupFilesController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\GroupFilesController.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Controllers\\GroupFilesController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\GroupFilesController.cs",
+              "RelativeToolTip": "CloudPanel\\Controllers\\GroupFilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:33:40.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\GroupUsersController.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Controllers\\GroupUsersController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\GroupUsersController.cs",
+              "RelativeToolTip": "CloudPanel\\Controllers\\GroupUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:33:45.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "CloudPanel\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:30:21.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BucketsController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\BucketsController.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Controllers\\BucketsController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\BucketsController.cs",
+              "RelativeToolTip": "CloudPanel\\Controllers\\BucketsController.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T02:44:40.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CloudPanel\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:33:27.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\appsettings.json",
+              "RelativeDocumentMoniker": "CloudPanel\\appsettings.json",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\appsettings.json",
+              "RelativeToolTip": "CloudPanel\\appsettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T23:36:23.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T22:09:10.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T08:41:24.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\FileRepository\\FileRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\FileRepository\\FileRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\FileRepository\\FileRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\FileRepository\\FileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:28:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\FileRepository\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\FileRepository\\IFileRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\FileRepository\\IFileRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\FileRepository\\IFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:28:53.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\AuthDtos\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\AuthDtos\\TokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\AuthDtos\\TokenResponseDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\AuthDtos\\TokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:45:59.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\AuthDtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\AuthDtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\AuthDtos\\LoginDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\AuthDtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:15:35.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\AuthDtos\\AuthUserDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\AuthDtos\\AuthUserDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\AuthDtos\\AuthUserDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\AuthDtos\\AuthUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:45:09.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T12:31:49.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ListFileGroupsView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\File\\ListFileGroupsView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\File\\ListFileGroupsView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\File\\ListFileGroupsView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\File\\ListFileGroupsView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T09:54:48.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoleUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\RoleUserRepository\\RoleUserRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\RoleUserRepository\\RoleUserRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\RoleUserRepository\\RoleUserRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\RoleUserRepository\\RoleUserRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:48:59.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\AuthDtos\\UserRoleDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\AuthDtos\\UserRoleDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\AuthDtos\\UserRoleDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\AuthDtos\\UserRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:17:40.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\AuthRepository\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\AuthRepository\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\AuthRepository\\IAuthRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\AuthRepository\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:21:26.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\UserRepository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\UserRepository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\UserRepository\\UserRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\UserRepository\\UserRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:58:33.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\UserRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\UserRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\UserRepository\\IUserRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\UserRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:45:13.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CloudPanel.WebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\CloudPanel.WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\CloudPanel.WebApp.csproj",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\CloudPanel.WebApp.csproj",
+              "RelativeToolTip": "WebApp\\CloudPanel.WebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T12:20:16.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ListFilesView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\ListFilesView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\ListFilesView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\ListFilesView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\ListFilesView.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T21:00:04.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\Dtos\\CreateFileDto.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Dtos\\CreateFileDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\Dtos\\CreateFileDto.cs",
+              "RelativeToolTip": "WebApp\\Models\\Dtos\\CreateFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T22:11:52.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ListGroupUsersView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\ListGroupUsersView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\ListGroupUsersView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\ListGroupUsersView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\ListGroupUsersView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T09:48:45.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LogEventVM.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\LogEventVM.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\LogEventVM.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\LogEventVM.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\LogEventVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T03:37:51.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ListUsersView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\ListUsersView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\ListUsersView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\ListUsersView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\ListUsersView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T06:46:12.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ListGroupFilesView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Group\\ListGroupFilesView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Group\\ListGroupFilesView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Group\\ListGroupFilesView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Group\\ListGroupFilesView.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T02:36:31.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LogStreamVM.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\LogStreamVM.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\LogStreamVM.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\LogStreamVM.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\LogStreamVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T01:02:25.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BucketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\BucketRepository\\BucketRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\BucketRepository\\BucketRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\BucketRepository\\BucketRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\BucketRepository\\BucketRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:36:36.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CloudPanel.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\CloudPanel.WebApi.csproj",
+              "RelativeDocumentMoniker": "CloudPanel\\CloudPanel.WebApi.csproj",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\CloudPanel.WebApi.csproj",
+              "RelativeToolTip": "CloudPanel\\CloudPanel.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T04:07:24.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ChunkMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\ChunkMetadata.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\BucketDtos\\ChunkMetadata.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\ChunkMetadata.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\BucketDtos\\ChunkMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:33:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IBucketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\BucketRepository\\IBucketRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\BucketRepository\\IBucketRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\BucketRepository\\IBucketRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\BucketRepository\\IBucketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:57:25.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GroupFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\GroupFileRepository\\GroupFileRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\GroupFileRepository\\GroupFileRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\GroupFileRepository\\GroupFileRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\GroupFileRepository\\GroupFileRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:43:00.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IGroupFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\GroupFileRepository\\IGroupFileRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\GroupFileRepository\\IGroupFileRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\GroupFileRepository\\IGroupFileRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\GroupFileRepository\\IGroupFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:24:47.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UpdateFileView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\File\\UpdateFileView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\File\\UpdateFileView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\File\\UpdateFileView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\File\\UpdateFileView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T02:10:02.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GroupAddFileVM.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\GroupAddFileVM.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\GroupAddFileVM.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\GroupAddFileVM.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\GroupAddFileVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T23:41:42.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GroupFilesByFileIdVM.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\GroupFilesByFileIdVM.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\GroupFilesByFileIdVM.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\GroupFilesByFileIdVM.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\GroupFilesByFileIdVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:52:11.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GroupFile.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\GroupFile.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\GroupFile.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\GroupFile.cs",
+              "RelativeToolTip": "WebApp\\Models\\GroupFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T00:09:30.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetGroupFilesByFileIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\GroupFileDtos\\GetGroupFilesByFileIdDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\GroupFileDtos\\GetGroupFilesByFileIdDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\GroupFileDtos\\GetGroupFilesByFileIdDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\GroupFileDtos\\GetGroupFilesByFileIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:12:57.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UploadFileView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\File\\UploadFileView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\File\\UploadFileView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\File\\UploadFileView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\File\\UploadFileView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T22:29:29.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GroupAddUserView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\GroupAddUserView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\GroupAddUserView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\GroupAddUserView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\GroupAddUserView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T19:57:09.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RoleAddUserView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\RoleAddUserView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\RoleAddUserView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\RoleAddUserView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\RoleAddUserView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T03:43:28.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserGroup.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\UserGroup.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\UserGroup.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\UserGroup.cs",
+              "RelativeToolTip": "WebApp\\Models\\UserGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:53:23.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "S3File.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\S3File.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\S3File.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\S3File.cs",
+              "RelativeToolTip": "WebApp\\Models\\S3File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:31:24.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GroupUserByGroupIdVM.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\GroupUserByGroupIdVM.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\GroupUserByGroupIdVM.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\GroupUserByGroupIdVM.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\GroupUserByGroupIdVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:52:41.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GroupUserByUserIdVM.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\GroupUserByUserIdVM.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\GroupUserByUserIdVM.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\GroupUserByUserIdVM.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\GroupUserByUserIdVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:12:27.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AddRoleView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\AddRoleView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\AddRoleView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\AddRoleView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\AddRoleView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T21:29:53.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GetFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\Dtos\\GetFileDto.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Dtos\\GetFileDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\Dtos\\GetFileDto.cs",
+              "RelativeToolTip": "WebApp\\Models\\Dtos\\GetFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:24:55.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\User.cs",
+              "RelativeToolTip": "WebApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:17:26.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UploadS3fileDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\UploadS3fileDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\BucketDtos\\UploadS3fileDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\UploadS3fileDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\BucketDtos\\UploadS3fileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:14:27.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GroupUser.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\GroupUser.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\GroupUser.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\GroupUser.cs",
+              "RelativeToolTip": "WebApp\\Models\\GroupUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:21:21.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AddGroupView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\AddGroupView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\AddGroupView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\AddGroupView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\AddGroupView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T22:05:05.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ListRoleUsersView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\ListRoleUsersView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\ListRoleUsersView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\ListRoleUsersView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\ListRoleUsersView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T03:26:44.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\Role.cs",
+              "RelativeToolTip": "WebApp\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:54:18.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RoleAddDeleteUserVM.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\RoleAddDeleteUserVM.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\RoleAddDeleteUserVM.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\RoleAddDeleteUserVM.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\RoleAddDeleteUserVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:52:15.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "GetFileByKeyDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\GetFileByKeyDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\BucketDtos\\GetFileByKeyDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\GetFileByKeyDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\BucketDtos\\GetFileByKeyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:32:23.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DeleteFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\Dtos\\DeleteFileDto.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Dtos\\DeleteFileDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\Dtos\\DeleteFileDto.cs",
+              "RelativeToolTip": "WebApp\\Models\\Dtos\\DeleteFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:18:14.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DeleteFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\DeleteFileDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\BucketDtos\\DeleteFileDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\DeleteFileDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\BucketDtos\\DeleteFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:53:23.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Models\\DapperContext\\Context.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Models\\DapperContext\\Context.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Models\\DapperContext\\Context.cs",
+              "RelativeToolTip": "CloudPanel\\Models\\DapperContext\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:16:25.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "S3ObjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\S3ObjectDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\BucketDtos\\S3ObjectDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\S3ObjectDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\BucketDtos\\S3ObjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:14:45.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CreateFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\FileDtos\\CreateFileDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\FileDtos\\CreateFileDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\FileDtos\\CreateFileDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\FileDtos\\CreateFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:28:33.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UploadFileDtoModel.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\UploadFileDtoModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\UploadFileDtoModel.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\UploadFileDtoModel.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\UploadFileDtoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:10:51.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GetAllFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\GetAllFileDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\BucketDtos\\GetAllFileDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\BucketDtos\\GetAllFileDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\BucketDtos\\GetAllFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:14:29.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ResultFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\FileDtos\\ResultFileDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\FileDtos\\ResultFileDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\FileDtos\\ResultFileDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\FileDtos\\ResultFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:28:40.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ListRolesView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\ListRolesView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\ListRolesView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\ListRolesView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\ListRolesView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBpwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T02:00:39.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:54:55.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UpdateUserView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\UpdateUserView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\UpdateUserView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\UpdateUserView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\UpdateUserView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T02:36:24.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CloudPanel.http",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\CloudPanel.http",
+              "RelativeDocumentMoniker": "CloudPanel\\CloudPanel.http",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\CloudPanel.http",
+              "RelativeToolTip": "CloudPanel\\CloudPanel.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-26T12:00:19.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CloudPanel.ServiceDefaults.csproj",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel.ServiceDefaults\\CloudPanel.ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "CloudPanel.ServiceDefaults\\CloudPanel.ServiceDefaults.csproj",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel.ServiceDefaults\\CloudPanel.ServiceDefaults.csproj",
+              "RelativeToolTip": "CloudPanel.ServiceDefaults\\CloudPanel.ServiceDefaults.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T12:19:52.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "RoleUserByRoleIdVM.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\RoleUserByRoleIdVM.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\RoleUserByRoleIdVM.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\RoleUserByRoleIdVM.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\RoleUserByRoleIdVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:25:21.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UpdateGroupView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\UpdateGroupView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\UpdateGroupView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\UpdateGroupView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\UpdateGroupView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T02:35:49.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UpdateRoleView.cshtml",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\UpdateRoleView.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Panel\\UpdateRoleView.cshtml",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Views\\Panel\\UpdateRoleView.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Panel\\UpdateRoleView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T02:10:11.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "UpdateFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\FileDtos\\UpdateFileDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\FileDtos\\UpdateFileDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\FileDtos\\UpdateFileDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\FileDtos\\UpdateFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:28:42.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "GetByIdFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\FileDtos\\GetByIdFileDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\FileDtos\\GetByIdFileDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\FileDtos\\GetByIdFileDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\FileDtos\\GetByIdFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:28:36.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "GetUserFilesDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\FileDtos\\GetUserFilesDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\FileDtos\\GetUserFilesDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\FileDtos\\GetUserFilesDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\FileDtos\\GetUserFilesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:26:03.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "GroupUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\GroupUserRepository\\GroupUserRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\GroupUserRepository\\GroupUserRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\GroupUserRepository\\GroupUserRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\GroupUserRepository\\GroupUserRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:19:21.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "RoleUser.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\RoleUser.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\RoleUser.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\RoleUser.cs",
+              "RelativeToolTip": "WebApp\\Models\\RoleUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:34:28.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IRoleUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\RoleUserRepository\\IRoleUserRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\RoleUserRepository\\IRoleUserRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\RoleUserRepository\\IRoleUserRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\RoleUserRepository\\IRoleUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:37:36.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IGroupUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\GroupUserRepository\\IGroupUserRepository.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Repositories\\GroupUserRepository\\IGroupUserRepository.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Repositories\\GroupUserRepository\\IGroupUserRepository.cs",
+              "RelativeToolTip": "CloudPanel\\Repositories\\GroupUserRepository\\IGroupUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:09:18.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "GroupAddDeleteUserVM.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\GroupAddDeleteUserVM.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ViewModels\\GroupAddDeleteUserVM.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\WebApp\\Models\\ViewModels\\GroupAddDeleteUserVM.cs",
+              "RelativeToolTip": "WebApp\\Models\\ViewModels\\GroupAddDeleteUserVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:11:18.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ResultUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\UserDtos\\ResultUserDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\UserDtos\\ResultUserDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\UserDtos\\ResultUserDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\UserDtos\\ResultUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:28:43.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel.AppHost\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CloudPanel.AppHost\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel.AppHost\\appsettings.Development.json",
+              "RelativeToolTip": "CloudPanel.AppHost\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T12:21:47.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel.AppHost\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CloudPanel.AppHost\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel.AppHost\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CloudPanel.AppHost\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T12:19:59.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "CloudPanel.AppHost\\appsettings.json",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel.AppHost\\appsettings.json",
+              "RelativeToolTip": "CloudPanel.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T12:00:58.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Aspire.Hosting.AppHost.targets",
+              "DocumentMoniker": "C:\\Users\\crawler\\.nuget\\packages\\aspire.hosting.apphost\\8.1.0\\build\\Aspire.Hosting.AppHost.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\aspire.hosting.apphost\\8.1.0\\build\\Aspire.Hosting.AppHost.targets",
+              "ToolTip": "C:\\Users\\crawler\\.nuget\\packages\\aspire.hosting.apphost\\8.1.0\\build\\Aspire.Hosting.AppHost.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\aspire.hosting.apphost\\8.1.0\\build\\Aspire.Hosting.AppHost.targets",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAkwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-26T11:55:50.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "CloudPanel.AppHost\\Program.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel.AppHost\\Program.cs",
+              "RelativeToolTip": "CloudPanel.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:54:53.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "GetGroupUserByUserIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\GroupUserDtos\\GetGroupUserByUserIdDto.cs",
+              "RelativeDocumentMoniker": "CloudPanel\\Dtos\\GroupUserDtos\\GetGroupUserByUserIdDto.cs",
+              "ToolTip": "C:\\Users\\crawler\\source\\repos\\CloudPanel\\CloudPanel\\Dtos\\GroupUserDtos\\GetGroupUserByUserIdDto.cs",
+              "RelativeToolTip": "CloudPanel\\Dtos\\GroupUserDtos\\GetGroupUserByUserIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:34:44.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

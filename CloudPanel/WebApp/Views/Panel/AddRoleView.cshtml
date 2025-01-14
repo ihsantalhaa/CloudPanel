@@ -1,0 +1,14 @@
+﻿@model Role
+<br />
+<h2 class="text-warning">Role Add</h2>
+<br />
+<div>
+    <form asp-controller="Panel" asp-action="AddRole" method="post">
+        @Html.AntiForgeryToken()
+        <input asp-for="@Model.roleName" type="text" class="form-control" placeholder="Name">
+        <br />
+        <div class="d-flex justify-content-end">
+            <input type="submit" class="btn btn-outline-warning p-2" value="Add Role" />
+        </div>
+    </form>
+</div>

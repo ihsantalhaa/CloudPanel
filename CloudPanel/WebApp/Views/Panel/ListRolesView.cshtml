@@ -1,0 +1,47 @@
+﻿@model List<Role>
+<br />
+<h2 class="text-warning">Roles</h2>
+<br />
+<table class="table table-hover table-responsive">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col" style="text-align:right">
+                <a asp-controller="Panel" asp-action="AddRoleView" class="btn btn-outline-warning p-2">Add</a>
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="table-primary" data-role-id="@item.roleId">
+                <th scope="row">@item.roleId</th>
+                <td>@item.roleName</td>
+                <td style="text-align:right">
+
+                    <div id="deleteConfirmModal-@item.roleId" class="modal fade" tabindex="-1">
+                        <div class="modal-dialog">
+                            <div class="modal-content alert alert-dismissible alert-light">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Are You Sure?</h5>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Cancel</button>
+                                    <form method="post" asp-controller="Panel" asp-action="DeleteRole" asp-route-roleId="@item.roleId">
+                                        @Html.AntiForgeryToken()
+                                        <button type="submit" class="btn btn-outline-danger">Confirm Delete</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a asp-controller="Panel" asp-action="ListRoleUsersView" asp-route-roleId="@item.roleId" class="btn btn-outline-success p-2">Users</a>
+                    <a asp-controller="Panel" asp-action="UpdateRoleView" asp-route-roleId="@item.roleId" class="btn btn-outline-warning p-2">Update</a>
+                    <a data-bs-toggle="modal" data-bs-target="#deleteConfirmModal-@item.roleId" class="btn btn-outline-danger p-2">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

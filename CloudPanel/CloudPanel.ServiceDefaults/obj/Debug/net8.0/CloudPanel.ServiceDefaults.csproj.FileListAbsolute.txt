@@ -1,0 +1,12 @@
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\bin\Debug\net8.0\CloudPanel.ServiceDefaults.deps.json
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\bin\Debug\net8.0\CloudPanel.ServiceDefaults.dll
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\bin\Debug\net8.0\CloudPanel.ServiceDefaults.pdb
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\obj\Debug\net8.0\CloudPanel.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\obj\Debug\net8.0\CloudPanel.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\obj\Debug\net8.0\CloudPanel.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\obj\Debug\net8.0\CloudPanel.ServiceDefaults.AssemblyInfo.cs
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\obj\Debug\net8.0\CloudPanel.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\obj\Debug\net8.0\CloudPanel.ServiceDefaults.dll
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\obj\Debug\net8.0\refint\CloudPanel.ServiceDefaults.dll
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\obj\Debug\net8.0\CloudPanel.ServiceDefaults.pdb
+C:\Users\crawler\source\repos\CloudPanel\CloudPanel.ServiceDefaults\obj\Debug\net8.0\ref\CloudPanel.ServiceDefaults.dll

@@ -1,0 +1,48 @@
+﻿@model LoginVM
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Login Ekranı</title>
+    <style>
+        body {
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .login-container {
+            max-width: 400px;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .login-container h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <div class="login-container">
+            <h2>Login</h2>
+            <form asp-action="Login" asp-controller="Home" method="post">
+                <div class="mb-3">
+                    <label class="form-label">Mail</label>
+                    <input type="text" class="form-control" asp-for="mail" placeholder="Enter Mail" required>
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" class="form-control" asp-for="password" placeholder="Enter Password" required>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="rememberMe">
+                    <label class="form-check-label" for="rememberMe">Remember Me</label>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">SignIn</button>
+            </form>
+        </div>
+    </center>
+</body>
+</html>

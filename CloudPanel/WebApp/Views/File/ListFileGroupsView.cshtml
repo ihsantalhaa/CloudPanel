@@ -1,0 +1,30 @@
+﻿@model List<GroupFilesByFileIdVM>
+<br />
+<h2 class="text-info">@ViewData["Name"] Groups</h2>
+<br />
+<table class="table table-hover table-responsive">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="table-primary">
+                <td>@item.groupName</td>
+                <td>@item.description</td>
+                <td style="text-align:right">
+                    <form asp-controller="Group" asp-action="GroupDeleteFile" method="post">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" readonly name="fileId" asp-for="@item.fileId" />
+                        <input type="hidden" readonly name="groupId" asp-for="@item.groupId" />
+                        <input type="submit" class="btn btn-outline-danger p-2" value="Delete" />
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

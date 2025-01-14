@@ -1,0 +1,17 @@
+﻿@model UserGroup
+<br />
+<h2 class="text-light">Group Update: @Model.groupName</h2>
+<br />
+<div>
+    <form asp-controller="Panel" asp-action="UpdateGroup" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="@Model.groupId" />
+        <input asp-for="@Model.groupName" type="text" class="form-control" placeholder="Name">
+        <br />
+        <input asp-for="@Model.description" type="text" class="form-control" placeholder="Descripyion">
+        <br />
+        <div class="d-flex justify-content-end">
+            <input type="submit" class="btn btn-outline-light p-2" value="Update Group" />
+        </div>
+    </form>
+</div>

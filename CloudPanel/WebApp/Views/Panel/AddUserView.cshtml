@@ -1,0 +1,20 @@
+﻿@model User
+<br />
+<h2 class="text-success">Create User</h2>
+<br />
+<div>
+    <form asp-controller="Panel" asp-action="AddUser" method="post">
+        @Html.AntiForgeryToken()
+        <input asp-for="@Model.username" type="text" class="form-control" placeholder="Username">
+        <br />
+        <input asp-for="@Model.mail" type="email" class="form-control" placeholder="Mail">
+        <br />
+        <input asp-for="@Model.phone" type="tel" class="form-control" placeholder="Phone">
+        <br />
+        <input asp-for="@Model.password" type="password" class="form-control" placeholder="Password">
+        <br />
+        <div class="d-flex justify-content-end">
+            <input type="submit" class="btn btn-outline-success p-2" value="Add User" />
+        </div>
+    </form>
+</div>

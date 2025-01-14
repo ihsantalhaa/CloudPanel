@@ -1,0 +1,30 @@
+﻿@model List<RoleAddDeleteUserVM>
+<br />
+<h2 class="text-warning">Add User @ViewData["Name"]</h2>
+<br />
+<table class="table table-hover table-responsive">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Username</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="table-primary" data-role-id="@item.userId">
+                <th scope="row">@item.userId</th>
+                <th>@item.username</th>
+                <td style="text-align:right">
+                    <form asp-controller="Panel" asp-action="RoleAddUser" method="post">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" readonly name="roleId" asp-for="@item.roleId" />
+                        <input type="hidden" readonly name="userId" asp-for="@item.userId" />
+                        <input type="submit" class="btn btn-outline-warning p-2" value="Add" />
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

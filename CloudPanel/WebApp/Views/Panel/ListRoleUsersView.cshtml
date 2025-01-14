@@ -1,0 +1,49 @@
+﻿@model List<RoleUserByRoleIdVM>
+@{
+    var roleId = TempData["RoleId"];//Context.Session.GetInt32("ListingRoleUsers-RoleId");
+}
+<br />
+<h2 class="text-warning">@ViewData["Name"] Users</h2>
+<br />
+<table class="table table-hover table-responsive">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Username</th>
+            <th scope="col" style="text-align:right">
+                <a asp-controller="Panel" asp-action="RoleAddUserView" asp-route-roleId="@roleId" class="btn btn-outline-warning p-2">Add</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="table-primary">
+                <th scope="row">@item.userId</th>
+                <td>@item.username</td>
+                <td style="text-align:right">
+                    <div id="deleteConfirmModal-@item.userId-@item.roleId" class="modal fade" tabindex="-1">
+                        <div class="modal-dialog">
+                            <div class="modal-content alert alert-dismissible alert-light">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Are You Sure?</h5>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Cancel</button>
+                                    <form asp-controller="Panel" asp-action="RoleDeleteUser" method="post">
+                                        @Html.AntiForgeryToken()
+                                        <input type="hidden" readonly name="roleId" asp-for="@item.roleId" />
+                                        <input type="hidden" readonly name="userId" asp-for="@item.userId" />
+                                        <button type="submit" class="btn btn-outline-danger">Confirm Delete</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <a data-bs-toggle="modal" data-bs-target="#deleteConfirmModal-@item.userId-@item.roleId" class="btn btn-outline-danger p-2">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

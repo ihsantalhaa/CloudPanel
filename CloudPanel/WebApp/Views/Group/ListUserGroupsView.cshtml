@@ -1,0 +1,29 @@
+﻿@model List<UserGroup>
+
+<div class="container mt-4">
+    <h3>Your Groups</h3>
+    <br />
+    @if (Model != null && Model.Count > 0)
+    {
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            @foreach (var item in Model)
+            {
+                <div class="col">
+                    <div class="card">
+                      <a asp-controller="Group" asp-action="ListGroupFilesView" asp-route-groupId="@item.groupId" class="text-decoration-none stretched-link">
+                        <div class="card-body">
+                          <h5 class="card-title text-decoration-none text-light">@item.groupName</h5>
+                        </div>
+                      </a>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info mt-3" role="alert">
+            No groups found.
+        </div>
+    }
+</div>

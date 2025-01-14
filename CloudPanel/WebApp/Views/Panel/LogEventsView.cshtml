@@ -1,0 +1,38 @@
+﻿@model List<LogEventVM>
+<br />
+<h3>Log Events</h3>
+<br />
+
+@if (Model != null && Model.Any())
+{
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3">
+    @foreach (var entry in Model)
+    {
+        <div class="col">
+            <div class="card h-100"> <div class="card-body p-2">
+                    <div class="d-flex justify-content-between align-items-center mb-2">
+                        <h6 class="card-title m-0 fw-bold">
+                            @if (DateTime.TryParse(entry.timestamp, out DateTime timestamp))
+                            {
+                                @timestamp.ToString("MM/dd/yyyy HH:mm:ss")
+                            }
+                            else
+                            {
+                                @entry.timestamp
+                            }
+                        </h6>
+                        <small class="text-muted">@entry.ingestionTime</small>
+                    </div>
+                    <small class="text-wrap">@Html.Raw(entry.message)</small>
+                </div>
+            </div>
+        </div>
+    }
+    </div>
+}
+else
+{
+    <div class="alert alert-info" role="alert">
+        No records found.
+    </div>
+}

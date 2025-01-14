@@ -1,0 +1,143 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CloudPanel.WebApp
+build_property.RootNamespace = CloudPanel.WebApp
+build_property.ProjectDir = C:\Users\crawler\source\repos\CloudPanel\WebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\crawler\source\repos\CloudPanel\WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Error/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/File/ListFileGroupsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVxMaXN0RmlsZUdyb3Vwc1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/File/ListUserFilesView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVxMaXN0VXNlckZpbGVzVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/File/UpdateFileView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVxVcGRhdGVGaWxlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/File/UploadFileView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVxVcGxvYWRGaWxlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Group/GroupAddFileView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcR3JvdXBBZGRGaWxlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Group/ListGroupFilesView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcTGlzdEdyb3VwRmlsZXNWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Group/ListUserGroupsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcTGlzdFVzZXJHcm91cHNWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/AddGroupView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcQWRkR3JvdXBWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/AddRoleView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcQWRkUm9sZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/AddUserView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcQWRkVXNlclZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/GroupAddUserView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcR3JvdXBBZGRVc2VyVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/ListFilesView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcTGlzdEZpbGVzVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/ListGroupsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcTGlzdEdyb3Vwc1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/ListGroupUsersView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcTGlzdEdyb3VwVXNlcnNWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/ListRolesView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcTGlzdFJvbGVzVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/ListRoleUsersView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcTGlzdFJvbGVVc2Vyc1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/ListUsersView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcTGlzdFVzZXJzVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/LogEventsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcTG9nRXZlbnRzVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/RoleAddUserView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcUm9sZUFkZFVzZXJWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/UpdateGroupView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcVXBkYXRlR3JvdXBWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/UpdateRoleView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcVXBkYXRlUm9sZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Panel/UpdateUserView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcVXBkYXRlVXNlclZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crawler/source/repos/CloudPanel/WebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wwcse1p157

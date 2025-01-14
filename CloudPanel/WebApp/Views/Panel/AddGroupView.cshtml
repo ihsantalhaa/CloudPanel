@@ -1,0 +1,16 @@
+﻿@model UserGroup
+<br />
+<h2 class="text-light">Group Add</h2>
+<br />
+<div>
+    <form asp-controller="Panel" asp-action="AddGroup" method="post">
+        @Html.AntiForgeryToken()
+        <input asp-for="@Model.groupName" type="text" class="form-control" placeholder="Name">
+        <br />
+        <input asp-for="@Model.description" type="text" class="form-control" placeholder="Description">
+        <br />
+        <div class="d-flex justify-content-end">
+            <input type="submit" class="btn btn-outline-light p-2" value="Add Group" />
+        </div>
+    </form>
+</div>

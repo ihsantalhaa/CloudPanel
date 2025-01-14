@@ -1,0 +1,52 @@
+﻿@model List<User>
+<br />
+<h2 class="text-success">Users</h2>
+<br />
+<table class="table table-hover table-responsive">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Username</th>
+            <th scope="col">Mail</th>
+            <th scope="col">Phone</th>
+            <th scope="col" style="text-align:right">
+                <a asp-controller="Panel" asp-action="AddUserView" class="btn btn-outline-success p-2">Add</a>
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="table-primary" data-role-id="@item.userId">
+                <th scope="row">@item.userId</th>
+                <th>@item.username</th>
+                <td>@item.mail</td>
+                <td>@item.phone</td>
+                <td style="text-align:right">
+
+                    <div id="deleteConfirmModal-@item.userId" class="modal fade" tabindex="-1">
+                        <div class="modal-dialog">
+                            <div class="modal-content alert alert-dismissible alert-light">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Are You Sure?</h5>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Cancel</button>
+                                    <form method="post" asp-controller="Panel" asp-action="DeleteUser" asp-route-userId="@item.userId">
+                                        @Html.AntiForgeryToken()
+                                        <button type="submit" class="btn btn-outline-danger">Confirm Delete</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <a asp-controller="Panel" asp-action="DetailsUserView" asp-route-userId="@item.userId" class="btn btn-outline-success p-2">Details</a>
+                    <a asp-controller="Panel" asp-action="UpdateUserView" asp-route-userId="@item.userId" class="btn btn-outline-success p-2">Update</a>
+                    <a data-bs-toggle="modal" data-bs-target="#deleteConfirmModal-@item.userId" class="btn btn-outline-danger p-2">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

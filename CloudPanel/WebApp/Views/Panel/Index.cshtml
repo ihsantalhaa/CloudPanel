@@ -1,0 +1,49 @@
+﻿@model List<LogStreamVM>
+
+@{
+    var link = "https://cloudwatch.amazonaws.com/dashboard.html?dashboard=dashboard_1&context=eyJSIjoidXMtZWFzdC0xIiwiRCI6ImN3LWRiLTIxNzMzMDMxNjg1MSIsIlUiOiJ1cy1lYXN0LTFfUGgzS0dsR1BjIiwiQyI6IjQ3YXZ1YnRmczkxMGZxYmU2MHZsNjQybW4yIiwiSSI6InVzLWVhc3QtMTowMmRmYzQ2MS1mZjEyLTQ3ZWQtYTMyOC03NGJmNDkxOWE2OWYiLCJNIjoiUHVibGljIn0=";
+}
+<br />
+<h3>Panel</h3>
+<tr>
+    <a type="button" class="btn badge bg-success" asp-controller="Panel" asp-action="ListUsersView">Users</a>
+    <a type="button" class="btn badge bg-warning" asp-controller="Panel" asp-action="ListRolesView">Roles</a>
+    <a type="button" class="btn badge bg-light" asp-controller="Panel" asp-action="ListGroupsView">Goups</a>
+    <a type="button" class="btn badge bg-info" asp-controller="Panel" asp-action="ListFilesView">Files</a>
+</tr>
+<br />
+<br />
+<iframe src="@link" width="100%" height="360"></iframe>
+<br />
+<br />
+
+@foreach (var item in Model)
+{
+    <div class="table-responsive">
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th class="text-light">Log Stream Name</th>
+                <th class="text-light">Creation Time</th>
+                <th class="text-light">First Event Timestamp</th>
+                    <th class="text-light">Last Event Timestamp</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var logStream in Model)
+            {
+                <tr>
+                    <td>
+                        <a asp-action="LogEventsView" asp-controller="Panel" asp-route-item="@logStream.logStreamName" class="text-decoration-none text-light">    
+                            @logStream.logStreamName
+                        </a>
+                    </td>
+                    <td class="text-light">@logStream.creationTime</td>
+                    <td class="text-light">@logStream.firstEventTimestamp</td>
+                    <td class="text-light">@logStream.lastEventTimestamp</td>    
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+}

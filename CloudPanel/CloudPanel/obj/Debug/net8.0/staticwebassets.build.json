@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MqRNelltQUek64bEP05xewBDzS7UcvjhF6bVDYSkyFg=",
+  "Source": "CloudPanel.WebApi",
+  "BasePath": "_content/CloudPanel.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

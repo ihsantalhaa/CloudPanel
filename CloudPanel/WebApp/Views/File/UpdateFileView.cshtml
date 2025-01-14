@@ -1,0 +1,18 @@
+﻿@model S3File
+<br />
+<h2 class="text-info">Update: @Model.fileName</h2>
+<br />
+<div>
+    <form asp-controller="File" asp-action="UpdateFile" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="@Model.fileId" />
+        <input type="hidden" asp-for="@Model.filePath" />
+        <input type="hidden" asp-for="@Model.userId" />
+        <input type="hidden" asp-for="@Model.fileName" />
+        <input asp-for="@Model.fileDescription" type="text" class="form-control" placeholder="Description">
+        <br />
+        <div class="d-flex justify-content-end">
+            <input type="submit" class="btn btn-outline-info p-2" value="Update File" />
+        </div>
+    </form>
+</div>

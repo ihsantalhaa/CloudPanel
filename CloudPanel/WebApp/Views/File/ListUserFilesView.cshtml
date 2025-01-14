@@ -1,0 +1,51 @@
+﻿@model List<S3File>
+<br />
+<h2 class="text-info">Your Files</h2>
+<br />
+<table class="table table-hover table-responsive">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col" style="text-align:right">
+                <a asp-controller="File" asp-action="UploadFileView" class="btn btn-outline-warning p-2">Upload</a>
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="table-primary" data-role-id="@item.fileId">
+                <th scope="row">@item.fileName</th>
+                <td>@item.fileDescription</td>
+                <td style="text-align:right">
+                    <div id="deleteConfirmModal-@item.fileId" class="modal fade" tabindex="-1">
+                        <div class="modal-dialog">
+                            <div class="modal-content alert alert-dismissible alert-light">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Are You Sure?</h5>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Cancel</button>
+                                    <form method="post" asp-controller="File" asp-action="DeleteFile" asp-route-fileId="@item.fileId">
+                                        @Html.AntiForgeryToken()
+                                        <button type="submit" class="btn btn-outline-danger">Confirm Delete</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a asp-controller="File" asp-action="ListFileGroupsView" asp-route-fileId="@item.fileId" class="btn btn-outline-light p-2">Groups</a>
+                    <a asp-controller="File" asp-action="UpdateFileView" asp-route-fileId="@item.fileId" class="btn btn-outline-info p-2">Update</a>
+                    <form method="post" asp-controller="File" asp-action="DownloadFile" asp-route-fileId="@item.fileId">
+                        @Html.AntiForgeryToken()
+                        <button type="submit" class="btn btn-outline-info p-2">Download</button>
+                    </form>
+                    @* <a asp-controller="File" asp-action="DownloadFile" asp-route-fileId="@item.fileId" class="btn btn-outline-info p-2">Download</a> *@
+                    <a data-bs-toggle="modal" data-bs-target="#deleteConfirmModal-@item.fileId" class="btn btn-outline-danger p-2">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

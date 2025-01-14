@@ -1,0 +1,24 @@
+﻿<form enctype="multipart/form-data" method="post" asp-controller="File" asp-action="UploadFile">
+    @Html.AntiForgeryToken()
+    <div class="p-5">
+        <div class="form-group row">
+            <h3 class="text-info">Upload File</h3>
+        </div>
+    </div>
+    @TempData["Error"]
+    <div class="form-group">
+        <label for="file">Select File:</label>
+        <input type="file" name="file" class="form-control" required />
+    </div>
+    <br />
+
+    <div class="form-group">
+        <label for="file">Description:</label>
+        <input type="text" name="description" class="form-control" />
+    </div>
+    <br />
+
+    <div class="d-flex justify-content-end">
+        <input type="submit" value="Upload" class="btn btn-outline-info" />
+    </div>
+</form>

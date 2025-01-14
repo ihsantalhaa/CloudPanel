@@ -1,0 +1,32 @@
+﻿@model List<GroupAddFileVM>
+<br />
+<h3 class="text-light">Add File To: @ViewData["Name"]</h3>
+<br />
+<h5>@ViewData["Description"]</h5>
+<br />
+<table class="table table-hover table-responsive">
+    <thead>
+        <tr>
+            <th scope="col">File Name</th>
+            <th scope="col">Description</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="table-primary" data-group-id="@item.fileId">
+                <th>@item.fileName</th>
+                <th>@item.fileDescription</th>
+                <td style="text-align:right">
+                    <form asp-controller="Group" asp-action="GroupAddFile" method="post">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" readonly name="fileId" asp-for="@item.fileId" />
+                        <input type="hidden" readonly name="groupId" asp-for="@item.groupId" />
+                        <input type="submit" class="btn btn-outline-warning p-2" value="Add" />
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

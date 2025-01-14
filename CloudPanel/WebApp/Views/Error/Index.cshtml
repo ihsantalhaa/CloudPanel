@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Hata Sayfası";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card text-center">
+                <div class="card-header bg-danger text-white">
+                    <h3>@ViewBag.ErrorType</h3>
+                </div>
+                <div class="card-body">
+                    <p class="card-text text-danger">@ViewBag.ErrorMessage</p>
+                    <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Ana Sayfaya Dön</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
